@@ -1,7 +1,7 @@
 # COGS189Project
-##COGS 189 Project Winter 2020 UCSD
+## COGS 189 Project Winter 2020 UCSD
 
-###Using Grasp-and-Lift EEG Detection Data to predict events using different classifiers
+### Using Grasp-and-Lift EEG Detection Data to predict events using different classifiers
 
 [Kaggle Grasp-and-Lift Detection Data ](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)
 
